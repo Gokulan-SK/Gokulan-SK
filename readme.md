@@ -40,7 +40,7 @@
 
 ---
 <div align="center">
-![snake gif](https://github.com/gokulan-sk/gokulan-sk/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/gokulan-sk/gokulan-sk/blob/output/github-snake-dark.svg)
 </div>
 <br>
 
