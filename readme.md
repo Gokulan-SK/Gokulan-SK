@@ -39,8 +39,12 @@
 - Completed ( Oct 2021 - May 2024)
 
 ---
-![snake gif](https://github.com/gokulan-sk/gokulan-sk/blob/output/github-snake-dark.svg)
-<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gokulan-sk/gokulan-sk/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gokulan-sk/gokulan-sk/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gokulan-sk/gokulan-sk/output/github-contribution-grid-snake.svg">
+</picture>
 
 [![An image of @gokulansk's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@gokulansk)](https://www.holopin.io/@gokulansk)
 
