@@ -26,7 +26,7 @@
 
 ### Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="KCT logo" src="./images/KCT-logo.jpg"/>](https://www.kct.ac.in/)
+[<img align="left" height="94px" width="94px" alt="KCT logo" src="./images/KCT_logo.jpg"/>](https://www.kct.ac.in/)
 **MCA Graduate**
 
 - In progress ( September 2024 - may 2026)
