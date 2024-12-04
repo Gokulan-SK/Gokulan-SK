@@ -26,11 +26,12 @@
 
 ### Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://en.wikipedia.org/wiki/Kumaraguru_College_of_Technology#/media/File:Kumaraguru_College_of_Technology_logo.png"/>](https://www.uninter.com/)
+[<img align="left" height="94px" width="94px" alt="KCT logo" src="./images/Kumaraguru_College_of_Technology_logo.png"/>](https://www.kct.ac.in/)
 **MCA Graduate**
 
 - In progress ( September 2024 - may 2026)
 
+[<img align="left" height="94px" width="94px" alt="NGPASC logo" src="./images/NGP-logo.jpg"/>](https://drngpasc.ac.in/)
 **B.Sc Artificial Intelligence and Machine Learning**
 
 - In progress ( Oct 2021 - May 2024)
