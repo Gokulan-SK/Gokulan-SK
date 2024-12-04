@@ -33,7 +33,7 @@
 
 <br>
 
-[<img align="left" height="94px" width="94px" alt="NGPASC logo" src="./images/NGP-logo.jpg"/>](https://drngpasc.ac.in/)
+[<img align="left" height="94px" width="94px" alt="NGPASC logo" src="./images/NGP-logo.png"/>](https://drngpasc.ac.in/)
 **B.Sc Artificial Intelligence and Machine Learning**
 
 - Completed ( Oct 2021 - May 2024)
