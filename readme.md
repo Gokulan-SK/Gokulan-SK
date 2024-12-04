@@ -46,7 +46,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gokulan-sk/gokulan-sk/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![An image of @gokulansk's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@gokulansk)](https://www.holopin.io/@gokulansk)
+[![An image of @gokulansk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gokulansk)](https://holopin.io/@gokulansk)
 
 ---
 
