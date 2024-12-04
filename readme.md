@@ -39,9 +39,7 @@
 - Completed ( Oct 2021 - May 2024)
 
 ---
-<div align="center">
-  ![snake gif](https://github.com/gokulan-sk/gokulan-sk/blob/output/github-snake-dark.svg)
-</div>
+![snake gif](https://github.com/gokulan-sk/gokulan-sk/blob/output/github-snake-dark.svg)
 <br>
 
 [![An image of @gokulansk's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@gokulansk)](https://www.holopin.io/@gokulansk)
