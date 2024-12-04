@@ -31,6 +31,8 @@
 
 - In progress ( September 2024 - may 2026)
 
+<br>
+
 [<img align="left" height="94px" width="94px" alt="NGPASC logo" src="./images/NGP-logo.jpg"/>](https://drngpasc.ac.in/)
 **B.Sc Artificial Intelligence and Machine Learning**
 
