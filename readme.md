@@ -12,32 +12,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokulan-sk&theme=radical"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulan-sk&theme=radical"> 
 </div>
-
----
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-- 📚 Learning tech in the real world while balancing academics.
-- 👨‍🎓 Pursuing MCA From Kumaraguru College of Technology, Tamil Nadu, India
-- 🌐 Visit my Website for more about me : [Portfolio](https://gokulan.live)
-- 📫 How to reach me: **Find me on [Gokulan | LinkedIn](https://www.linkedin.com/in/gokulan-s-k)**
-
-<br>
-
-### Academic Background:
-
-[<img align="left" height="94px" width="94px" alt="KCT logo" src="./images/Kumaraguru-College-of-Technology-logo.jpg"/>](https://www.kct.ac.in/)
-**MCA Graduate**
-
-- In progress ( September 2024 - may 2026)
-
-<br>
-
-[<img align="left" height="94px" width="94px" alt="NGPASC logo" src="./images/NGP-logo.png"/>](https://drngpasc.ac.in/)
-**B.Sc Artificial Intelligence and Machine Learning**
-
-- Completed ( Oct 2021 - May 2024)
-
 ---
 
 <picture>
@@ -49,6 +23,35 @@
 [![An image of @gokulansk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gokulansk)](https://holopin.io/@gokulansk)
 
 ---
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+- ⚡ Blending academics with hands-on tech building.
+- 👨‍🎓 Pursuing MCA at Kumaraguru College of Technology, Tamil Nadu, India
+- 🌐 Visit my Website for more about me : [Portfolio](https://gokulan.live)
+- 📫 Connect with me on: **[Gokulan | LinkedIn](https://www.linkedin.com/in/gokulan-s-k)**
+
+<br>
+
+---
+### Academic Background:
+
+[<img align="left" height="94px" width="94px" alt="KCT logo" src="./images/Kumaraguru-College-of-Technology-logo.jpg"/>](https://www.kct.ac.in/)
+**MCA Graduate**
+
+- In progress (September 2024 - May 2026)
+
+<br clear="left"/>
+
+[<img align="left" height="94px" width="94px" alt="NGPASC logo" src="./images/NGP-logo.png"/>](https://drngpasc.ac.in/)
+**B.Sc Artificial Intelligence and Machine Learning**
+
+- Completed (October 2021 - May 2024)
+
+<br clear="left"/>
+
+
 
 <div>
 <a href = "mailto: skgokulan@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
