@@ -19,7 +19,7 @@
 
 - 📚 Learning tech in the real world while balancing academics.
 - 👨‍🎓 Pursuing MCA From Kumaraguru College of Technology, Tamil Nadu, India
-- 🌐 Visit my Website for more about me : [Portfolio](https://gokulan-sk.github.io/MyPortfolio)
+- 🌐 Visit my Website for more about me : [Portfolio](https://gokulan.live)
 - 📫 How to reach me: **Find me on [Gokulan | LinkedIn](https://www.linkedin.com/in/gokulan-s-k)**
 
 <br>
