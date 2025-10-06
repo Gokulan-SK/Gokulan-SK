@@ -29,7 +29,6 @@
 
 - ⚡ Blending academics with hands-on tech building.
 - 👨‍🎓 Pursuing MCA at Kumaraguru College of Technology, Tamil Nadu, India
-- 🌐 Visit my Website for more about me : [Portfolio](https://gokulan.live)
 - 📫 Connect with me on: **[Gokulan | LinkedIn](https://www.linkedin.com/in/gokulan-s-k)**
 
 <br>
